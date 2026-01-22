@@ -1,2 +1,2 @@
 # Odin-Recipes
-This project taught me so much as a novice in coding..I am truly happy to have made something by myself. Even though it might not be much it brings me joy to have learnt so many nuances in something as simple as git and html. TOP did a wonderful job paving the way for this as a friend and not a tough instructor who scared you away fro learning things.
+This project taught me so much as a novice in coding..I am truly happy to have made something by myself. Even though it might not be much it brings me joy to have learnt so many nuances in something as simple as git and html. TOP did a wonderful job paving the way for this as a friend and not as a tough instructor who scared you away from learning things.
